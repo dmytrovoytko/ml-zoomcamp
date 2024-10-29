@@ -12,7 +12,7 @@
 * What's the version of pipenv you installed?
 * Use `--version` to find out
 
-2024.2.0
+--> 2024.2.0
 
 ## Question 2
 
@@ -22,7 +22,7 @@
 > **Note**: you should create an empty folder for homework
 and do it there. 
 
-sha256:03b6158efa3faaf1feea3faa884c840ebd61b6484167c711548fce208ea09445
+--> sha256:03b6158efa3faaf1feea3faa884c840ebd61b6484167c711548fce208ea09445
 
 ## Models
 
@@ -71,7 +71,7 @@ What's the probability that this client will get a subscription?
 
 * 0.359
 * 0.559
-* 0.759
+* 0.759 <-- 
 * 0.959
 
 If you're getting errors when unpickling the files, check their checksum:
@@ -99,7 +99,7 @@ requests.post(url, json=client).json()
 
 What's the probability that this client will get a subscription?
 
-* 0.335
+* 0.335 <--
 * 0.535
 * 0.735
 * 0.935
@@ -136,7 +136,7 @@ Download the base image `svizor/zoomcamp-model:3.11.5-slim`. You can easily make
 So what's the size of this base image?
 
 * 45 MB
-* 130 MB
+* 130 MB <--
 * 245 MB
 * 330 MB
 
@@ -179,7 +179,7 @@ What's the probability that this client will get a subscription now?
 
 * 0.287
 * 0.530
-* 0.757
+* 0.757 <--
 * 0.960
 
 

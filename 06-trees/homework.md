@@ -162,7 +162,7 @@ Now change `eta` from `0.3` to `0.1`.
 Which eta leads to the best RMSE score on the validation dataset?
 
 * 0.3
-* 0.1
+* 0.1 <--
 * Both give equal value
 
 ## Submit the results

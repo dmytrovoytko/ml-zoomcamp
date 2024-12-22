@@ -70,6 +70,8 @@ What's the version of `kind` that you have?
 
 Use `kind --version` to find out.
 
+	0.26.0 <--
+
 
 ## Creating a cluster
 
